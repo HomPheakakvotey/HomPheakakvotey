@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HomPheakakvotey
 
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="github-user-contribution.svg"></a>
 <p align="center"> 
   Visitor count<br>
 </p>
